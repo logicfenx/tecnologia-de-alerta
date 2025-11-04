@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/tecnologia-de-alerta",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a tecnologia-de-alerta",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/tecnologia-de-alerta.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://losnegocios.mx/tecnologia-de-alertamiento-sismico/"
+    },
+    "homepage": "https://losnegocios.mx/tecnologia-de-alertamiento-sismico/"
+}
